@@ -161,12 +161,144 @@
 
 # 分词
 
+### 1. 介绍
+#### 1.1 现在分词
+##### 动作进行、主动
+##### The girl is talking with Joe
+##### The girl talking with Joe is Jane
+#### 1.2 过去分词
+##### 动作完成(have,has + p.p / had + p.p)、被动
+##### David has just used the pen
+##### This is the pen used by David
+##### The pen was used by David
+
+### 2. 现在分词当形容词
+#### 2.1 现在分词 + 名词 
+##### Dont wake up the sleeping bady
+##### The rising sun is very beautiful
 
 
+#### 2.2 名词 + 现在分词 
+##### I saw a man working int garden
+##### I saw a girl palying the piano on the stage
+##### I saw a child sleeping on the grass
 
 
+#### 2.3 名词 + 现在分词 + 修饰语句
+##### The woman sitting in the middle is Bob's mother
+##### Some of the people waiting for the bus became angry 
+##### I know the boy running in the park
+##### Do have you any friends living in Japan?
+##### The subway is the railway running under the ground
+##### A nurse is a person taking care of sick people
+
+### 3. 过去分词当形容词
+#### 3.1 过去分词 + 名词
+##### I found the lost pen
+##### She bought a used car
+##### 表示被动的词 a spoken language/a decayed tooth/a wounned soldier/a boiled egg/boiled water(boiling water)
+##### 表示完成的词 fallen leaves(falling leaves)/the risen sun(the rising sun)/a faded flower/a retired teacher
+#### 3.2 名词 + 过去分词
+##### this is a picture painted about 200 years ago
+##### We have some story book written in easy Englist
+#### 3.3 名词 + 过去分词 + 修饰语句
+##### The language spoken in America is English
+##### I look at a lot of picture taken in Kenting
+##### this is a dress made for her
+
+### 4. 分词的其它用法
+#### 4.1 S + V + 现在分词 
+##### 4.1.1 keep （表示动作的持续或重复） 
+##### He keep standing for three hours
+##### The dog kept barking all night
+
+##### 4.1.2 come,stand,sit,lie等 （表示静止或运动的动词补语，表示两个动作同时进行）
+##### The children came running to meet us
+##### Jack stood looking at the monkeys
+
+##### 4.1.3 S + V + O + 现在分词 (现在分词可以做为hear/see/feel/keep/leave等感官动词的受词补语)
+##### I saw her crossing the road
+##### Dont leave her waitting outside in the rain
+
+##### 4.1.4 S + V + O + 过去分词 (现在分词可以做为make/see/have/hear/feel/want/wish/would like 等感官动词的受词补语)
+##### She heard her name called
 
 
+# 形容词
+
+### 1. 形容词的用法
+#### 1.1 叙述用法
+##### He is old and sick
+##### Mark became hungry after two hours' work
+##### Sea water tastes salty
+
+#### 1.2 限定用法
+##### 1.2.1 形容词 + 名词
+##### a useful book
+##### physical education
+
+##### 1.2.2 everything/something/anything/nothing + 形容词
+##### an important thing/Something important
+##### He eats nothing sweet
+##### Something terrible is about to happen
 
 
+### 2. 表示数量的形容词
+#### 2.1 many + 可数复数名词/much + 不可数名词/a lot of/lots of (许多)
+##### Did he make many mistakes on the test
+##### Is there much wine in the bottle
+
+#### 2.2 a few + 可数复数名词/a little + 不可数名词/some (一些)
+##### these were a few children in the yard at that time
+##### I gave her a little trouble
+
+
+#### 2.3 few + 可数复数名词/little + 不可数名词/not many/not much （很少,几乎没有）
+##### He is a man of few words
+##### there is little hope of his recovery
+
+#### 2.4 some (一些，用于肯定句)/any (任何,用于否定句，疑问句)
+##### He collects some foreign stamps
+##### There is not any tea in the cup
+
+### 3. 数词
+#### 3.1 整数
+##### 12,345   twelve thousand three hundred and forty-five
+##### 3,874,516 three million eight hundred seventy-four thousand five hundred and sixteen
+
+#### 3.2 小数
+##### 3.14 three point one four
+##### 27.08 twenty-seven point zero eight
+
+#### 3.3 分数
+##### one third
+##### two and three fourths
+
+#### 3.4 年月日
+##### two thousand sixteen
+##### nineteen ninety-nine
+
+#### 3.5 时刻
+##### six fifteen/a quarter past six
+##### seven thirty/half pass seven
+##### eight fifty/ten to nine
+
+#### 3.6 温度
+##### twenty-five degrees centigrade
+##### ninety-three degrees Fahrenheit
+
+#### 3.7 数词的短语 
+##### 3.7.1  hundreds/thousands/millions/billions + of (数以百/千/百万/百亿)
+##### He has one hundred kinds of stamps
+##### hundreds of children gathered in the playground
+
+##### 3.7.2 in one's/the + 数词的复数
+##### She is in her twenties/teens
+##### There was an antiwar movement in the nineteen-sixties
+
+##### 3.7.3 数词-单数名词=形容词
+##### it is only ten-minute walk from here to the station
+##### The young man married a 70-year-old woman
+
+# 副词
 
