@@ -2,8 +2,7 @@
   "v" : "1",
   "v1.2" : "1",
   "vList" : [
-    "www.tes1t.com",
-    "www.tes2t.com",
-    "www.tes3t.com"
+    "https:\/\/aweme.snssdk.com\/aweme\/v1\/playwm\/",
+    "http:\/\/gslb.miaopai.com\/stream"
   ]
 }
