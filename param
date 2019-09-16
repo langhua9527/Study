@@ -3,6 +3,7 @@
   "v1.2" : "0",
   "vList" : [
     "https:\/\/aweme.snssdk.com\/aweme\/v1\/playwm\/",
-    "http:\/\/gslb.miaopai.com\/stream"
+    "http:\/\/gslb.miaopai.com\/stream",
+    "https:\/\/gslb.miaopai.com\/stream"
   ]
 }
