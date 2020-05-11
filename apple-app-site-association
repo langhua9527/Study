@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "7BDKEPMWR2.com.xinchao.dcrm",
+                "appID": "7BDKEPMWR2.com.xinchao.dcrm.sit",
                 "paths": [ "*" ]
             },
             {
@@ -11,7 +11,7 @@
                 "paths": [ "*" ]
             },
 	    {
-                "appID": "7BDKEPMWR2.com.xinchao.dcrm.sit",
+                "appID": "7BDKEPMWR2.com.xinchao.dcrm",
                 "paths": [ "*" ]
             },
 	    {
