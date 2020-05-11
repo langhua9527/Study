@@ -3,11 +3,19 @@
         "apps": [],
         "details": [
             {
-                "appID": "9JA89QQLNQ.com.apple.wwdc",
-                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*"]
+                "appID": "7BDKEPMWR2.com.xinchao.dcrm",
+                "paths": [ "*" ]
             },
             {
-                "appID": "ABCD1234.com.apple.wwdc",
+                "appID": "7BDKEPMWR2.com.xinchao.dcrm.dev",
+                "paths": [ "*" ]
+            },
+	    {
+                "appID": "7BDKEPMWR2.com.xinchao.dcrm.sit",
+                "paths": [ "*" ]
+            },
+	    {
+                "appID": "7BDKEPMWR2.com.xinchao.dcrm.uat",
                 "paths": [ "*" ]
             }
         ]
